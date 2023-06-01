@@ -1,0 +1,1 @@
+# EDN-PLANO-ESTUDO_AWS_Certified_Cloud_Practitioner
